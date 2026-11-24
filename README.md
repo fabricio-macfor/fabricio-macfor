@@ -12,9 +12,13 @@ Na maioria das empresas, a pesquisa entrega um relatório, a criação faz a cam
 
 ## Aqui no GitHub
 
-- [macfor-site](https://github.com/fabricio-macfor/macfor-site): site institucional da Macfor, v3.18
-- [macfor-site-v5](https://github.com/fabricio-macfor/macfor-site-v5): estudo de home da Macfor
-- [fabriciomacias.com.br](https://github.com/fabricio-macfor/fabriciomacias.com.br): meu site pessoal
+- [metodologia-dolores](https://github.com/fabricio-macfor/metodologia-dolores): a Metodologia Dolores, do livro, como skill para auditar relatórios de marketing
+- [anti-slop-macfor](https://github.com/fabricio-macfor/anti-slop-macfor): guia para tirar a cara de IA de textos de marketing
+- [painel-saude](https://github.com/fabricio-macfor/painel-saude): painel com Apple Health e Zepp, com a zona 2 calculada pela frequência cardíaca
+- [chief-of-staff](https://github.com/fabricio-macfor/chief-of-staff): painel do dia com agenda, e-mail e Teams, montado pelo Claude Code
+- [monitor-premiacoes](https://github.com/fabricio-macfor/monitor-premiacoes): prazos de prêmios de marketing por e-mail
+- [vivid-bible](https://github.com/fabricio-macfor/vivid-bible): app de devocional diário para iPhone (código fechado)
+- Sites: [fabriciomacias.com.br](https://github.com/fabricio-macfor/fabriciomacias.com.br), [macfor-site](https://github.com/fabricio-macfor/macfor-site) e [macfor-site-v5](https://github.com/fabricio-macfor/macfor-site-v5)
 
 ## Reconhecimentos
 
